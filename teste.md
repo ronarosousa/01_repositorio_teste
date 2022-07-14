@@ -18,6 +18,6 @@ Lista demarcada:
 
 
 Lista de tarefas:
--[ ] Criar a página principal
--[ ]Criar a página da loja
--[ ] Finalizar a reunião com o cliente
+- [ ] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
