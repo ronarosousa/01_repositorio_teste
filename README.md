@@ -1,2 +1,2 @@
-# 01_repositorio_teste
- Primeiro repositório criado para validar configuração dos GitHubDesktop
+# Repositório 01
+ Primeiro repositório criado para válidar configuração do **GitHubDesktop**
