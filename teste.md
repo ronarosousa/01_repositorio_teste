@@ -62,6 +62,8 @@ else:
 
 ---
 
+**Utilizando Emojis**
+
 Olá, visitante 🤝
 
 Boas ações merecem aplausos :clap: 
