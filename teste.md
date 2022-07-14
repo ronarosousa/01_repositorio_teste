@@ -18,6 +18,7 @@ Lista demarcada:
 
 
 Lista de tarefas:
+- [x] Treinar a linguagem Markdown
 - [ ] Criar a página principal
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
