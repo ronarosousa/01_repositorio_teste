@@ -60,3 +60,6 @@ else:
    print('O valor {num} é IMPAR')
 ```
 
+---
+
+Olá, visitante 🤝
