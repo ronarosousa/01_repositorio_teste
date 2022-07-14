@@ -1,5 +1,7 @@
 # Linguagem **Markdown** para ser utilizada aqui no *GitHub*
+
 ---
+
 Lista numerada:
 
 1. Teste 1
@@ -28,6 +30,7 @@ Lista de tarefas:
 ![Octocat do Ronaro](https://user-images.githubusercontent.com/108550778/179031113-dce89883-d9bc-45dc-816a-fda73a9386e5.jpg)
 
 Para criar seu Octocat [Clique aqui](https://myoctocat.com/)
+
 ---
 
 Modelo de Tabela
