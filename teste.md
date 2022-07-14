@@ -63,3 +63,12 @@ else:
 ---
 
 Olá, visitante 🤝
+
+Boas ações merecem aplausos :clap: 
+
+Fatos importantes merecem atenção :eyes: 
+
+Seja forte sempre :muscle: 
+
+Conteúdo bacana merece um like :+1: 
+
