@@ -22,3 +22,5 @@ Lista de tarefas:
 - [ ] Criar a página principal
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
+
+![Octocat do Ronaro](https://user-images.githubusercontent.com/108550778/179031113-dce89883-d9bc-45dc-816a-fda73a9386e5.jpg)
