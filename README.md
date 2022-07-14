@@ -1,9 +1,10 @@
 # Repositório para armazenar informações Markdown
- Repositório para armazenar dados e informações sobre a linguagem de marcação Markdown criada por John Gruber e Aaron Swartz capaz de converter o texto em HTML válido.
- Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. 
+
+## Repositório para armazenar dados e informações sobre a linguagem de marcação Markdown criada por John Gruber e Aaron Swartz capaz de converter o texto em HTML válido.
+## Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. 
 
 
-# Linguagem **Markdown** para ser utilizada aqui no *GitHub*
+Utilizando os recursos Markdown
 
 ---
 
@@ -17,14 +18,19 @@ Lista numerada:
    99. Teste 2.4
 3. Teste 3
 
+---
+
 Lista demarcada:
+
 * Teste 1
 * Teste 2
 * Teste 3
    * Teste 3.1
 
+---
 
 Lista de tarefas:
+
 - [x] Treinar a linguagem Markdown
 - [ ] Criar a página principal
 - [ ] Criar a página da loja
@@ -32,13 +38,15 @@ Lista de tarefas:
 
 ---
 
+Inserindo uma imagem
+
 ![Octocat do Ronaro](https://user-images.githubusercontent.com/108550778/179031113-dce89883-d9bc-45dc-816a-fda73a9386e5.jpg)
 
 Para criar seu Octocat [Clique aqui](https://myoctocat.com/)
 
 ---
 
-Modelo de Tabela
+Tabela simples
 
 Num | Nome | Nota
 ---|---|---
@@ -48,15 +56,16 @@ Num | Nome | Nota
 
 ---
 
-Destacando uma parte do enunciado, exemplo erro na aplicação.
+Destacando uma parte do texto, exemplo:
 
 Erro na aplicação ```5x3344```
 
+ou 
+
 Erro no sistema de marcação de reserva `document.error no value'
 
----
+ou
 
-Modelo de Script em Python:
 ```
 num = int(input('Digite um valor: ')
 if num % 2 == 0:
@@ -67,7 +76,7 @@ else:
 
 ---
 
-**Utilizando Emojis**
+Utilizando Emojis
 
 Olá, visitante 🤝
 
