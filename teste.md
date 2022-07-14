@@ -40,3 +40,23 @@ Num | Nome | Nota
 1 | Gustavo | 8,5
 2 | Maria | 10
 3 | Igor | 7,5
+
+---
+
+Destacando uma parte do enunciado, exemplo erro na aplicação.
+
+Erro na aplicação ```5x3344```
+
+Erro no sistema de marcação de reserva `document.error no value'
+
+---
+
+Modelo de Script em Python:
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print('O valor {num} é PAR')
+else:
+   print('O valor {num} é IMPAR')
+```
+
